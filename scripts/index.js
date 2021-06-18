@@ -179,7 +179,7 @@ const Game = {
         
         
           
-      const enemy = new Enemy(this.ctx, this.width, this.height, this.width, posStartY, 100, 100, 'ship.jpg', -3, 0, this.frameCounter, this.player)
+      const enemy = new Enemy(this.ctx, this.width, this.height, this.width, posStartY, 100, 100, 'ship.png', -3, 0, this.frameCounter, this.player)
       this.enemies.push(enemy) 
       }
     },
