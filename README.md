@@ -34,7 +34,7 @@
 - https://docs.google.com/presentation/d/1z-FFR2SSAEe8btltd5ZsXo-6G2PQ9EthrVmOyolEFpA/edit#slide=id.gcb9a0b074_1_0
 
 ##Deployment
-- deployed with [GitHub Pages](https://silviudn.github.io/GuitarBattle/)
+- deployed with [GitHub Pages](https://silviudn.github.io/guitar-battle-game/)
 
 ##Get started
 - to clone this repository
